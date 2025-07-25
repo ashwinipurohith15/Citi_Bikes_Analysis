@@ -54,6 +54,20 @@ The Citi Bike customer base is mostly long-term subscribers aged between 35-44, 
 
 ## Findings & Insights
 
+<img width="988" height="495" alt="Insight 1" src="https://github.com/user-attachments/assets/1c6193d5-59bd-41a8-9868-3d3bc144076f" />
+
+<img width="867" height="510" alt="Insight 2" src="https://github.com/user-attachments/assets/49de8522-c7b6-428f-83b0-084b39beb807" />
+
+<img width="957" height="472" alt="Insight 3" src="https://github.com/user-attachments/assets/57d74a61-7461-4cfe-a9e6-79aa9be182ce" />
+
+<img width="955" height="500" alt="Insight 4" src="https://github.com/user-attachments/assets/fb8d1659-d0fe-444a-b482-66431bcca4c0" />
+
+<img width="946" height="488" alt="Insight 5" src="https://github.com/user-attachments/assets/d37b11db-f074-42b3-bb14-ce4939e0d23a" />
+
+
+
+
+
 
 
 
